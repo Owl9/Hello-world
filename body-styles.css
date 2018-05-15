@@ -22,12 +22,12 @@ body, html {
 
 .bgimg-2 {
   background-image: url("img2.jpg");
-  min-height: 50%;
+  min-height: 20%;
 }
 
 .bgimg-3 {
   background-image: url("img7.jpg");
-  min-height: 90%;
+  min-height: 40%;
 }
 
 .caption {
